@@ -1,0 +1,32 @@
+'global':
+  'editor':
+    'fontSize': 12
+  'core':
+    'disabledPackages': [
+      'git-diff'
+    ]
+    'themes': [
+      'atom-dark-ui'
+      'gruvbox'
+    ]
+  'exception-reporting':
+    'userId': '93e76680-0a34-5473-d14b-9bd614c665b8'
+  'release-notes':
+    'viewedVersion': '0.84.0'
+  'welcome':
+    'showOnStartup': false
+  'metrics':
+    'userId': 'a1b42dbb372724f4ee14aa879ba324bd91fe10f4'
+  'syntax-settings':
+    'source':
+      'python':
+        'editorViewSettings':
+          'showIndentGuide': true
+  'linter':
+    'lintOnChange': false
+  'linter-flake8':
+    'executableDir': '/usr/local/bin'
+  'heapofatoms':
+    'username': 'raynes'
+    'token': '1ea7b7b5-a8a9-4f47-8087-28ad8865f7e3'
+  'autoclose-html': {}
