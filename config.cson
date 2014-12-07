@@ -1,6 +1,7 @@
 'global':
   'editor':
     'fontSize': 12
+    'invisibles': {}
   'core':
     'disabledPackages': [
       'git-diff'
@@ -29,4 +30,8 @@
   'heapofatoms':
     'username': 'raynes'
     'token': '1ea7b7b5-a8a9-4f47-8087-28ad8865f7e3'
+  'linter-coffeelint':
+    'coffeelintExecutablePath': '/usr/local/bin/coffeelint'
+  'tree-view':
+    'hideVcsIgnoredFiles': true
   'autoclose-html': {}
